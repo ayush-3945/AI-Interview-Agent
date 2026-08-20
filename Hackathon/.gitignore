@@ -1,0 +1,9 @@
+node_modules
+.dist
+.env
+server/.env
+server/node_modules
+.vscode/settings.json
+.vscode/*.code-workspace
+.DS_Store
+.env.local
