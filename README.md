@@ -375,6 +375,6 @@ Add a license to the repository if you plan to distribute the project as open so
 
 ## Author
 
-**Anjali Kumari**
+**Ayush Kumar Pandey**
 
 Built as an AI-powered interview practice platform combining modern frontend development, backend APIs, generative AI, and browser voice capabilities.
